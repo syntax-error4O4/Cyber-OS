@@ -1,6 +1,7 @@
 # Cyber-OS
 # **Overview:**
 Cyber-OS is a web-based OS, interative OS created as a passion project. It features multiple applications, closeable and draggable windows along with unique features to alter the desktop look. With distinct color scheme, the look was directly inspired by cyberpunk and CRT-monitors.It aims to provide a smooth and immersive experience to all users.
+[Try it out here!](https://syntax-error4o4.github.io/Cyber-OS/)
 # **Glimpse**
 <img width="1901" height="1027" alt="devlog 6" src="https://github.com/user-attachments/assets/9dc62ab5-4ebd-42f0-b3eb-cd2323b3580e" />
 
