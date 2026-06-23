@@ -130,7 +130,7 @@ body {
     position: relative;
     font-weight: bold;
     margin-top: 5px;
-    text-shadow: 1px 1px 4px rgba(0, 0, 0, 0.8); /* Ensures visibility on light wallpapers */
+    text-shadow: 1px 1px 4px rgba(0, 0, 0, 0.8); 
 }
 .proceed{
     transition: transform 0.2s ease;}
