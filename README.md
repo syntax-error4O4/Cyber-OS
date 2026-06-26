@@ -12,14 +12,14 @@ Cyber-OS is a web-based OS, interative OS created as a passion project. It featu
 - Date and Time: Provides a live updates on the status of the day.
   
 **2) Applications**
-- Archive of Words: Provides an amusing experience to the user, supplying them with obscure words that they may not encounter with in the wild.
-- Painterly: A painting application that features a beautiful set of colors that contrast well with the dark canvas, undo and redo buttons as well as a feature to change the brush size as per their will.
+- Archive of Words:  An application that introduces you to the most obscure words English has to offer. Have you ever wanted to solve a crossword by knowing an eight letter word for theft? Well, here's your chance!
+- Painterly: A standard painting application with a small twist- a pure black canvas and colors catered specifically for contrast without looking overwhelming. It also features a brush size changer, undo and redo buttons
 - Calculator: A custom display, floating window for arithmetic needs.
 - Display Settings:
-  -  Flicker: With the ability to alter between off and on, it provides a subtle flicker to the OS
+  -  Flicker: With the ability to alter between off and on, it provides a subtle flicker to the OS.
   -  Scanline Mode: It has the ability to switch between thick, thin, and off as per the users' whim. It creates horizontal lines across the OS reminescent of how a CRT monitor would behave
   -  Signal: Offers seamless altering between high, medium and low as per the user, it dynamically applies a blurred effect to everything in the desktop environment as signal levels drop.
-- Desktop Compainion: Features an animated sprite on the bottom right that provides you company as you go about your work. Inherently loyal, this sprite offers up a random collection of thoughts for your consideration as per its whims.
+- Desktop Compainion: Features an animated sprite on the bottom right that provides you company as you go about your work. While brevity is the soul of wit, this pixel hasn't heard of it.
 
 # Languages Used
  1) Javascript
